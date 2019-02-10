@@ -24,3 +24,5 @@
 export 'src/view/SimpleBottomAppBar.dart';
 
 export 'src/view/DialogBox.dart';
+
+export 'src/view/ColorPicker.dart';

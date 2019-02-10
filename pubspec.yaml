@@ -1,6 +1,6 @@
 name: uxutils
 description: User Experience Utilies for Flutter
-version: 0.1.0
+version: 0.2.0
 author: Greg Perry
 homepage: www.andrioussolutions.com
 
@@ -10,6 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  flutter_material_color_picker: any
 
 dev_dependencies:
   flutter_test:
